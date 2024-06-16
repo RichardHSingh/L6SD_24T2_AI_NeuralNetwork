@@ -22,5 +22,5 @@ _
 <br><br><br>
 
 # Running Script
-As this code is using streamlit --> one needs to run the following script in order to see the output of the created model<br> 
-streamlit run "file Name.extension" --> **streamlit run creatingAIModel.py** - _as my file has this naming convention_
+As this code is using streamlit --> one needs to run the following script in order to see the output of the created model<br><br>
+► streamlit run "file Name.extension" --> **streamlit run creatingAIModel.py** - _as my file has this naming convention_
