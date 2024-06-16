@@ -17,3 +17,10 @@ _
 • **TensorFlow**<br> Syntax: pip install tensorflow -- _**Please Note:** Though this repo also uses Keras, Keras is now built into tensorflow how ever one can still install Keras if needed_<br>
 
 • **Scikit-learn**<br>Syntax: pip install scikit-learn<br>
+
+• **XGBoost**<br>Syntax: pip install xgboost
+<br><br><br>
+
+# Running Script
+As this code is using streamlit --> one needs to run the following script in order to see the output of the created model<br> 
+streamlit run "file Name.extension" --> **streamlit run creatingAIModel.py** - _as my file has this naming convention_
